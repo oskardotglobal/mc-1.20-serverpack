@@ -1,0 +1,13 @@
+name = "Modpack Test"
+author = "PixelAgent007"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c833d2bd22cd3aee567fb1bfabdd0f03e925739fa627d9f2260f790192b91ce2"
+
+[versions]
+minecraft = "1.20"
+quilt = "0.19.0-beta.18"

@@ -1,0 +1,61 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/c2me.toml"
+hash = "c8aebd75c6e10de6db7a6d66826cfe0519b03d7b876307c7d458a2a482f60f5c"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "b95fd739ebab8995117722aaac90aab6bea1aeec3a29b5170e332a69dc6408b6"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
+
+[[files]]
+file = "config/servercore.toml"
+hash = "6d29c2ab091203f1803f42375e546a0ba36de7da1ea0ca07e6b8d48f45a55483"
+
+[[files]]
+file = "config/vmp.properties"
+hash = "60bb477ce59f7a57dc8959b952bb71ef14219af6b4eaa94b86a1707a54f72498"
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "fe2fce2919a781b1ff2b27dfaabddf030dd9bb61d27a7df1f954e4a9ee440bf9"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "46a1e26d033d04ff07008f23faa1263dc28e8f6a6471cc6377cf5c73e9571fa3"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "6c681a60f617657bb819dae03d180a92a513908705518480391dfd55783b457a"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "7a8d5e151619f34a346e505a601bb1d0f86c4f371aac533c50d9792c6d63a363"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "77fb235736e2876ad3329aaf377b57f367808988d01ef661caf338b5817a431e"
+metafile = true
