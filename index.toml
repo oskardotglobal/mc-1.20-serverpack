@@ -5,10 +5,6 @@ file = "config/c2me.toml"
 hash = "c8aebd75c6e10de6db7a6d66826cfe0519b03d7b876307c7d458a2a482f60f5c"
 
 [[files]]
-file = "config/ferritecore.mixin.properties"
-hash = "b95fd739ebab8995117722aaac90aab6bea1aeec3a29b5170e332a69dc6408b6"
-
-[[files]]
 file = "config/lithium.properties"
 hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
 
@@ -33,11 +29,6 @@ metafile = true
 [[files]]
 file = "mods/carpet.pw.toml"
 hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
-metafile = true
-
-[[files]]
-file = "mods/ferrite-core.pw.toml"
-hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
 metafile = true
 
 [[files]]
