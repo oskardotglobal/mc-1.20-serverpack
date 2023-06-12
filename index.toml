@@ -17,6 +17,16 @@ file = "config/vmp.properties"
 hash = "60bb477ce59f7a57dc8959b952bb71ef14219af6b4eaa94b86a1707a54f72498"
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "4e5894d63fd78dfcc4fd9bd415c2386c693f6fa04e3eb161118a8d33ee7b736d"
+metafile = true
+
+[[files]]
+file = "mods/anti-xray.pw.toml"
+hash = "f09286db37d46130a88509b16481ac18d2d3483a1edc31ad8e9d07f03f8ea11a"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "fe2fce2919a781b1ff2b27dfaabddf030dd9bb61d27a7df1f954e4a9ee440bf9"
 metafile = true
@@ -32,13 +42,53 @@ hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "2d3871eb785146824fa9e8dc368d6321933202f6c05fa8b5ab45808236b9816e"
+metafile = true
+
+[[files]]
+file = "mods/chunkyborder.pw.toml"
+hash = "ae3387e1b13eae0eb58f66c74d1ec847362c657b66ae91f17bd1d5d299292885"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "a3ef0ef31a8279dfb6ff25e78083291a483109b624e90946d7d0de13d9ff35a3"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "ca4c66e6e0c96f139fb996915277a0a417a55fc5ffa8810d0aaa5dd07080399c"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "6c681a60f617657bb819dae03d180a92a513908705518480391dfd55783b457a"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "d613ab357290e506067edf33a001e80a821f06e3872c81a0c0d018c772bb8a26"
+metafile = true
+
+[[files]]
+file = "mods/pl3xmap.pw.toml"
+hash = "c1f8416262e0e7175fdff037a922dab98fc9f927852fc4c6dcec4230fadf8453"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "7a8d5e151619f34a346e505a601bb1d0f86c4f371aac533c50d9792c6d63a363"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "49d0ce7e7872aa4acbf3490647226fca58cebdc9cfc1402614bbddc1444ab66a"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "a191178533cb0075a686ea3351c9a63c03e9b27ef8a125e14c94981f8bcb5b41"
 metafile = true
 
 [[files]]
@@ -49,4 +99,14 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "77fb235736e2876ad3329aaf377b57f367808988d01ef661caf338b5817a431e"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "f412d2cd486da2b5736e845f81448f99450bb36a92f99d91471d267e3a0dfc28"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "2da296c9f042dc47c672e2645be715c2f1cefa764f938a8e95e6c4163f8ce3ab"
 metafile = true
