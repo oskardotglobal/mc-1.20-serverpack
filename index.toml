@@ -28,7 +28,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "fe2fce2919a781b1ff2b27dfaabddf030dd9bb61d27a7df1f954e4a9ee440bf9"
+hash = "5b089b32ba80ff2c4fcb1cf5ad04e54fe7dfb402d6e1c325f5c42e9b179cb1b0"
 metafile = true
 
 [[files]]
@@ -68,17 +68,22 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "d613ab357290e506067edf33a001e80a821f06e3872c81a0c0d018c772bb8a26"
+hash = "5ac7c70847108d6c21c3352ae5233129a410e42ddf161319cb0a658c0b296693"
 metafile = true
 
 [[files]]
 file = "mods/pl3xmap.pw.toml"
-hash = "c1f8416262e0e7175fdff037a922dab98fc9f927852fc4c6dcec4230fadf8453"
+hash = "4581223292bd41d81c6375632ca515f69ecced346f5976d0f7d2621ae29c4329"
 metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "7a8d5e151619f34a346e505a601bb1d0f86c4f371aac533c50d9792c6d63a363"
+metafile = true
+
+[[files]]
+file = "mods/servux.pw.toml"
+hash = "5e78027ca7fa10fb5ca74614dae6941696f7db526afb36f678df75a636cf8739"
 metafile = true
 
 [[files]]
