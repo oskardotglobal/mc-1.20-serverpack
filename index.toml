@@ -47,11 +47,6 @@ hash = "2d3871eb785146824fa9e8dc368d6321933202f6c05fa8b5ab45808236b9816e"
 metafile = true
 
 [[files]]
-file = "mods/chunkyborder.pw.toml"
-hash = "ae3387e1b13eae0eb58f66c74d1ec847362c657b66ae91f17bd1d5d299292885"
-metafile = true
-
-[[files]]
 file = "mods/debugify.pw.toml"
 hash = "a3ef0ef31a8279dfb6ff25e78083291a483109b624e90946d7d0de13d9ff35a3"
 metafile = true
