@@ -1,0 +1,7 @@
+name = "enchancement"
+filename = "enchancement-1.20.jar"
+
+[download]
+url = "https://github.com/oskardotglobal/enchancement/releases/download/1.20-alpha/enchancement-1.20.jar"
+hash-format = "sha256"
+hash = "b1ebcc35bf9714e7a6b911a8c045a39d51266d207b434c6bf875e23c3e521c5e"

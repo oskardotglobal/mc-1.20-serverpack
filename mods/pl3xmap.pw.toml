@@ -1,6 +1,6 @@
 name = "Pl3xMap"
 filename = "Pl3xMap-1.20-441.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/YMXhf1UJ/versions/F9ZnMYKJ/Pl3xMap-1.20-441.jar"
