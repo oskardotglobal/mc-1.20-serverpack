@@ -112,6 +112,11 @@ hash = "5ac7c70847108d6c21c3352ae5233129a410e42ddf161319cb0a658c0b296693"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "8475894e2eeeaef0b12f4209b7c6da565d2d23b866437f23c70361160af17114"
+metafile = true
+
+[[files]]
 file = "mods/pl3xmap.pw.toml"
 hash = "4581223292bd41d81c6375632ca515f69ecced346f5976d0f7d2621ae29c4329"
 metafile = true
@@ -144,6 +149,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
 metafile = true
 
 [[files]]
