@@ -32,11 +32,6 @@ hash = "56e43a6d3b2f91b41552a09488b6ec374aa0c5796c9d55a1148c17c562949142"
 metafile = true
 
 [[files]]
-file = "mods/bookshelf.pw.toml"
-hash = "586263f53c68e930b3f760faf64c79bb4484cdcf7e9bd2ecda926dc68882944d"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "ab138dc529ef4055343961fbc3e62c1de0b794a716d694c79d914e07256324cf"
 metafile = true
@@ -74,11 +69,6 @@ metafile = true
 [[files]]
 file = "mods/enchancement.pw.toml"
 hash = "3bcc41bbf506ae472e016d0d6123689a79b28e7c05d7fa12b74a655bbddeb4f4"
-metafile = true
-
-[[files]]
-file = "mods/enchantment-descriptions.pw.toml"
-hash = "202afc37b8902bfb3b9a207c4d90fb9435823f635d6894d6dad7dd6572fbe4bb"
 metafile = true
 
 [[files]]
