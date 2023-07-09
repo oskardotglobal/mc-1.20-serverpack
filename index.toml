@@ -142,11 +142,6 @@ hash = "5e78027ca7fa10fb5ca74614dae6941696f7db526afb36f678df75a636cf8739"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "e322a7ff1a300edcd29320206634eed36eab9a8b06e4e9142d163d89da341bb4"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
 hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
 metafile = true
@@ -169,11 +164,6 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "9f652b197e465a7a43b227cb15d577b39048def2b22b1b57b10b2f21e3402fe0"
-metafile = true
-
-[[files]]
-file = "mods/voice-chat-interaction.pw.toml"
-hash = "5efd3cf3ce070d55b607d938dae8ecd201ef54ca2def1fa3f316d6247de6ca8d"
 metafile = true
 
 [[files]]
