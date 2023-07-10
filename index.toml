@@ -5,6 +5,10 @@ file = "config/c2me.toml"
 hash = "c8aebd75c6e10de6db7a6d66826cfe0519b03d7b876307c7d458a2a482f60f5c"
 
 [[files]]
+file = "config/enchancement.json"
+hash = "a7a5c77ca38f508f7cb85ae13db256ad880c3dfb60a7bfc5b0e85432e373b0f9"
+
+[[files]]
 file = "config/lithium.properties"
 hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
 
@@ -77,11 +81,14 @@ hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
 metafile = true
 
 [[files]]
+<<<<<<< HEAD
 file = "mods/elytra-trims.pw.toml"
 hash = "a3f7d6f8365093fb57b9232311140de8809f7db401cf7feeefc1b4a4553ea91e"
 metafile = true
 
 [[files]]
+=======
+>>>>>>> 96e060c (feat: add enchancement config)
 file = "mods/enchancement.pw.toml"
 hash = "3bcc41bbf506ae472e016d0d6123689a79b28e7c05d7fa12b74a655bbddeb4f4"
 metafile = true
@@ -178,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "5e78027ca7fa10fb5ca74614dae6941696f7db526afb36f678df75a636cf8739"
+hash = "a0be9ec4f1c38f0f69c212aa12577233daadc81e453fcad0bef4ae5829023cdb"
 metafile = true
 
 [[files]]
@@ -198,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/tooltipfix.pw.toml"
-hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
+hash = "5266f479ada8def6f0913d79b57f1dbf52058df1690e3702a3a3608e6a80c796"
 metafile = true
 
 [[files]]
