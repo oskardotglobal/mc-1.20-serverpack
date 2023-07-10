@@ -17,13 +17,23 @@ file = "config/vmp.properties"
 hash = "60bb477ce59f7a57dc8959b952bb71ef14219af6b4eaa94b86a1707a54f72498"
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "ae9173e1d85d2490f520e779f628b219c5f96b4822f1ca5fb6ce223e4de02acf"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "bedc5fd207a9959c72565f0131b65a8eec71dcdef3e83f6c4556f81e7292326a"
 metafile = true
 
 [[files]]
-file = "mods/anti-xray.pw.toml"
-hash = "f09286db37d46130a88509b16481ac18d2d3483a1edc31ad8e9d07f03f8ea11a"
+file = "mods/architectury-api.pw.toml"
+hash = "df19c411fd67e340ed687f781863a6d7fb9f1de666449df75ffe82136e45f9dc"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "2f19d96faee56e8d2259cee0e5a6c38a72f7b4eb6feaaa6a5024d20a7cfb36f4"
 metafile = true
 
 [[files]]
@@ -57,13 +67,18 @@ hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
 
 [[files]]
+file = "mods/conjuring.pw.toml"
+hash = "aa72685b762aef09aa3c5eb83ae9153cd92b62d7ed4cc480efbd9022f05ff4a4"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
 metafile = true
 
 [[files]]
-file = "mods/do-a-barrel-roll.pw.toml"
-hash = "f438dc8ebf458a05ebd69a902b0b471adba17576e993ac6305231b615e7fc56a"
+file = "mods/elytra-trims.pw.toml"
+hash = "a3f7d6f8365093fb57b9232311140de8809f7db401cf7feeefc1b4a4553ea91e"
 metafile = true
 
 [[files]]
@@ -78,7 +93,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2205239199b4a1e74afcdba1151807d2e4487ce2cf116cee9f62d25f1659a3f5"
+hash = "3e44d2d79ec00732cfe3ffaa37d4de19ee6642e48915a5bc75d7c77f75d94757"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "67c29ef6f322a11055a415ace1b54f415bf78fe73bdc3566ad5223d5622f14bf"
 metafile = true
 
 [[files]]
@@ -92,8 +112,18 @@ hash = "2176657c92ac6ec789f4f42ad6ba4480340f75f7d5b466ca531a8c3eb2d3bc52"
 metafile = true
 
 [[files]]
+file = "mods/gotta-go-fast-fabric.pw.toml"
+hash = "6beecae4007fc03a0fc56f4c9338492852351422ecb50aa41e9c04b6c5e259d1"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "a154087f80d2179cabd05cf7629c29c06c5a62538e70f7c58021dd1d4f9e3e3a"
+metafile = true
+
+[[files]]
+file = "mods/industrial-revolution.pw.toml"
+hash = "4f57b2009f172b84f054664264ec2f33b5b3a2c764d0acb57964aec7b21cb6a0"
 metafile = true
 
 [[files]]
@@ -112,6 +142,11 @@ hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "83b476730dba8c3cdc9ee6ed4e0623f97bc116848aebfe3149eece321083b251"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "e6ad8855aee828b004b5be87f5cad12dbc9de346e7200add290b1b93a2a0ad5c"
 metafile = true
@@ -119,6 +154,21 @@ metafile = true
 [[files]]
 file = "mods/pl3xmap.pw.toml"
 hash = "30ab3436cf67d197d28378862108e416433b9a466a9a7a11cb03a9b7bcd0b81e"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
+metafile = true
+
+[[files]]
+file = "mods/powah.pw.toml"
+hash = "6b2df72430aad54b186f53a6d16982af5b1222c1f756e0ce11ede8ee77962d72"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "401489a8476901a3f5d354b1d413f88034c9d69fb0928c932d042d99f33e68fc"
 metafile = true
 
 [[files]]
